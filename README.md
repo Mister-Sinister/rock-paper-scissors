@@ -20,5 +20,3 @@ The core functionality of the game is implemented using a JavaScript function ca
 - HTML
 - CSS
 - JavaScript
-
-## How to Run Locally
